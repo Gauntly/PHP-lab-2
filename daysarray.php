@@ -1,3 +1,4 @@
+<title>WebDev Lab 2</title>
 <h1>Lab 2</h1>
 <h3>Task 1</h3>
 <?php
