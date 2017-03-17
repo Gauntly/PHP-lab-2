@@ -7,5 +7,8 @@
  * Time: 11:29 AM
  */
 $number = $_POST["number"];
-echo(factorial($number));
+echo("The number inputted was: $number");
+$fact = factorial($number);
+
+echo("<br>And the factorial is: $fact");
 ?>
