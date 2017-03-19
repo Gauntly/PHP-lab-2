@@ -6,9 +6,8 @@
  * Date: 17-Mar-17
  * Time: 11:29 AM
  */
-$number = $_POST["number"];
-echo("The number inputted was: $number");
-$fact = factorial($number);
-
-echo("<br>And the factorial is: $fact");
+$number = $_POST["inNum"];
+echo("The number inputted was: $number and the factorial is: ");
+echo factorial($number);
 ?>
+

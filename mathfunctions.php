@@ -8,7 +8,6 @@
  * Date: 17-Mar-17
  * Time: 11:20 AM
  */
-
 function factorial($positiveInt){
     $result = 1;
     $factor = $positiveInt;
